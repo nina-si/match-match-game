@@ -1,0 +1,13 @@
+.cards-field {
+  width: 70%;
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.hide-cards {
+  display: none;
+}
